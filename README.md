@@ -10,7 +10,7 @@ Application should look like this, but NewsAPI changed the liberties of the free
 
 ## Sidebar
 
-<img src="/src/assets/main-page.png.png" >
+<img src="/src/assets/main-page.png" >
 
 ## Select 
 <img src="/src/assets/selectedNews.png">
